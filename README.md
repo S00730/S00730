@@ -1,5 +1,5 @@
 # 💫 About Me:
- I’m looking to collaborate on open source projects<br> I’m currently learning AI and ML<br>
+ Learning C currently<br>
 
 
 ## 🌐 Socials:
